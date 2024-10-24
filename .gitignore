@@ -1,0 +1,11 @@
+__init__.py
+__pycache__
+visualizer
+tests
+lab*/.ipynb_checkpoints/*
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz

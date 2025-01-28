@@ -8,7 +8,7 @@ w repozytorium [**algorytmy-geometryczne-projekt2024**](https://github.com/kxlsx
 
 ## Zawartość
 
-Foldery *lab*/* zawierają napisane przeze mnie sprawozdania
+Foldery lab*/ zawierają napisane przeze mnie sprawozdania
 zarówno w formie plików *pdf*, jak i plików źródłowych *tex*.
 Programy napisane są w Pythonie w formie notatników.
 Każdy folder zawiera także wszystkie grafiki/animacje

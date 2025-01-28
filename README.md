@@ -6,7 +6,14 @@ z Algorytmów Geometrycznych na WI AGH 2024/2025
 Wykonany przeze mnie projekt znajduje się
 w repozytorium [**algorytmy-geometryczne-projekt2024**](https://github.com/kxlsx/algorytmy-geometryczne-projekt2024).
 
-## Zawartość
+## Tematy laboratoriów
+
+- lab1 - Podstawowe predykaty geometryczne (położenie punktów względem prostej).
+- lab2 - Otoczka wypukła.
+- lab3 - Triangulacja wielokątów monotonicznych.
+- lab4 - Przecinanie odcinków.
+
+## Zawartość repozytorium
 
 Foldery lab*/ zawierają napisane przeze mnie sprawozdania
 zarówno w formie plików *pdf*, jak i plików źródłowych *tex*.
